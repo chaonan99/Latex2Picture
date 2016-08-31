@@ -4,6 +4,7 @@ def selections(view, default_to_all=True):
     """
     Return all non-empty selections in view
     If None, return entire view if default_to_all is True
+    code from: https://github.com/mastahyeti/URLEncode
     """
     regions = [r for r in view.sel() if not r.empty()]
 
