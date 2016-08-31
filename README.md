@@ -5,5 +5,11 @@ This is a plug-in for sublime3 (Just 3 now!!!) to convert a formula in latex gra
 
 Default short cut is <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>shift</kbd>+<kbd>u</kbd> (no conflict ... god bless me ...).
 
+## Related blog post
+This code is a complement for [this](https://chaonan99.github.io/2016/how-to-add-equation-on-github-markdown-file/) blog post.
+
 ## How to install
 Of cource you can't install via package control. You should copy this repo to your sublime package folder. To find where the folder is, open default key binding file in `Preferences -> Key Bindings - Default` and hover your mouse pointer on the item bar of that file. You may see something like `xxx\xxx\Packages\` stop at Packages! Put the repo there.
+
+## License
+MIT license.
