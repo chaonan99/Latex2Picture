@@ -16,7 +16,7 @@ def selections(view, default_to_all=True):
 def quote(view, s):
     return "![equation](http://latex.codecogs.com/svg.latex?" + urllib.parse.quote(s, safe='') + ")"
 
-class Latex2PictureCommand(sublime_plugin.TextCommand):
+class LatexPictureCommand(sublime_plugin.TextCommand):
     """
     Main logic
     """

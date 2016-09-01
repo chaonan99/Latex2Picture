@@ -1,6 +1,6 @@
 [
 {
 	"keys": ["ctrl+shift+alt+u"],
-	"command": "latex_2_picture"
+	"command": "latex_picture"
 }
 ]
