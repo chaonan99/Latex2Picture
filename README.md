@@ -1,6 +1,8 @@
 # Latex to Picture (or image if you like...)
 This is a plug-in for sublime3 (Just 3 now!!!) to convert a formula in latex grammar to an url, which will show the picture of your equation. This is useful when markdown don't support latex equation, like in a GitHub README.
 
+![gif](effact.gif)
+
 ## How to install
 Of cource you can't install via package control. You should copy this repo to your sublime package folder. To find where the folder is, open default key binding file in `Preferences -> Key Bindings - Default` and hover your mouse pointer on the item bar of that file. You may see something like `xxx\xxx\Packages\` stop at Packages! Put the repo there.
 
