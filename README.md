@@ -1,6 +1,6 @@
 # Latex to Picture (or image if you like...)
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 
 This is a plug-in for sublime3 (Just 3 now!!!) to convert a formula in latex grammar to an url, which will show the picture of your equation. This is useful when markdown don't support latex equation, like in a GitHub README.
 
